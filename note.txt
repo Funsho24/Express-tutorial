@@ -10,3 +10,5 @@ middlewares- fucntions that run on the server btw req and res
 app.use
 
 req----> middlewares<----response
+
+// Architecture - mvc models views and controller
